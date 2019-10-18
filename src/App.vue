@@ -1,17 +1,17 @@
 <template>
   <v-app>
-    <login></login>
+    <cv></cv>
   </v-app>
 </template>
 
 
 <script>
-import login from './components/login';
+import cv from './components/cv';
 
 export default {
   name: 'App',
   components: {
-    login,
+    cv,
   },
   data: () => ({
     //
