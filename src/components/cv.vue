@@ -12,7 +12,7 @@
         src="..\assets\myProfilePicture.jpg"
         >
         <v-card-title>
-          <h1 class="display-1">Alexander Fridriksson</h1>
+          <h1 style="font-size: 1.96rem!important;">Alexander Fridriksson</h1>
         </v-card-title>
         <v-card-subtitle class="white--text">
         I help people save time and make better decisions
