@@ -19,7 +19,8 @@
         </v-card-subtitle>
         </v-img>
         <v-card-text>
-          <p>*Imagine I wrote something meaningful about myself*</p>
+          <p>Hi I'm Alexander, an infinitely curious guy who's sharing lessons learned,
+    projects built and other reflections over at <a href="https://www.datastorydesign.com/">DataStoryDesign.com</a></p>
         </v-card-text>
         <v-divider></v-divider>
         <v-card-actions class="justify-space-around" >
